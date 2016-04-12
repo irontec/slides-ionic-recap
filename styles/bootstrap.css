@@ -6,6 +6,10 @@
     -webkit-box-shadow: none;
 	-moz-box-shadow: none;
 	box-shadow: none;
+    margin-left: 0px;
+    margin-right: 0px;
+    max-width: 600px;
+    width: 100%;
 }
 
 .reveal ul li ul li:last-child{
@@ -72,4 +76,36 @@
 
 .span1 {
   width: 60px;
+}
+
+.text-right {
+    text-align: right!important;
+}
+
+table {
+    width: 100%;
+    height: 100%;
+}
+
+table th {
+    text-align: right!important;
+}
+
+table tbody td {
+    text-align: right!important;
+}
+
+.column {
+    height: 620px;
+    display: table;
+}
+
+.column .content {
+    vertical-align: middle;
+    display: table-cell;
+}
+
+.span4 p {
+    vertical-align: middle;
+    display: table-cell;
 }
