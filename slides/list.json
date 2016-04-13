@@ -8,5 +8,21 @@
         "02-install-04.md",
         "02-install-05.md",
         "02-install-06.md"
+    ], [
+        "03-first-00.md",
+        "03-first-01.md",
+        "03-first-02.md"
+    ], [
+        "04-tabs-00.md",
+        "04-tabs-01.md",
+        "04-tabs-02.md",
+        "04-tabs-03.md",
+        "04-tabs-04.md",
+        "04-tabs-05.md",
+        "04-tabs-06.md",
+        "04-tabs-07.md"
+    ], [
+        "05-controllers-00.md",
+        "05-controllers-01.md"
     ]
 ]
